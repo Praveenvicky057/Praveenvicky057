@@ -26,7 +26,7 @@
   <img src="https://img.icons8.com/ios-filled/50/azure-1.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png"/>
-  <img src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
+  <img src="https://img.icons8.com/officel/48/000000/java-eclipse.png"/>
 </p>
 
 ---
