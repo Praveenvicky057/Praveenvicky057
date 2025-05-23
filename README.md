@@ -1,5 +1,5 @@
-## Hi there 👋 It's me Praveen Kumar A
-<h1 align="center">Hi there 👋, I'm Samir</h1> 
+
+<h1 align="center">Hi there 👋, I'm Praveen Kumar A</h1> 
 <h3 align="center">Automation Tester | Quality Analyst | Selenium | Java | TestNG</h3>
 
 <p align="center">
