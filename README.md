@@ -3,7 +3,7 @@
 <h3 align="center">Automation Tester | Quality Analyst | Selenium | Java | TestNG</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/apraveen-kumar" target="_blank"><img src="(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/apraveen-kumar" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Praveenvicky057" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://praveen-portfolio-git-main-praveen-kumar-as-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
