@@ -16,7 +16,6 @@
 - 🔭 I’m currently working on Automation testing of Power BI Web applications at Infosys using Selenium, Java, and testNG, with a focus on data validation between UI and backend systems.
 - 🌱 I’m currently learning API Testing.
 - 👯 I’m looking to collaborate on Open-source QA automation frameworks, particularly involving Selenium, TestNG, or cucumber. Also open to data validation or backend testing projects.
-- 🤔 I’m looking for help with 
 - 💬 Ask me about Selenium with Java automation, TestNG Framework, Oracle DB, CI/CD integration with jenkins
 - 📫 How to reach me - praveenvicky057@gmail.com
 - 😄 Pronouns: He/Him
