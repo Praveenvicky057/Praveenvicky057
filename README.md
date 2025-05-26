@@ -13,11 +13,15 @@
 
 ### About Me
 
-- 🔭 I’m currently skilling up in **Ab Initio & Databricks Report Testing**
-- 🌱 Currently learning **Katalon Studio** and expanding my knowledge of **Data Validation SQL**
-- ⚡ Fun fact: I love solving real-world testing problems and continuously improving automation frameworks
+- 🔭 I’m currently working on Automation testing of Power BI Web applications at Infosys using Selenium, Java, and testNG, with a focus on data validation between UI and backend systems.
+- 🌱 I’m currently learning API Testing.
+- 👯 I’m looking to collaborate on Open-source QA automation frameworks, particularly involving Selenium, TestNG, or cucumber. Also open to data validation or backend testing projects.
+- 🤔 I’m looking for help with 
+- 💬 Ask me about Selenium with Java automation, TestNG Framework, Oracle DB, CI/CD integration with jenkins
+- 📫 How to reach me - praveenvicky057@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I was a Brand Ambassador at Capgemini, where I represented the company during campus events and helped promote its values and work culture.
 
----
 
 ### Languages and Tools
 
@@ -43,8 +47,7 @@
 
 ### Portfolio Website
 
-**Coming Soon** – Stay tuned for my new animated portfolio!
-
+  <a href="https://praveen-portfolio-git-main-praveen-kumar-as-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
 <!--
 **Praveenvicky057/Praveenvicky057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
