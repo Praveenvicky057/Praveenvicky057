@@ -5,6 +5,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/apraveen-kumar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://github.com/Praveenvicky057" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"/></a>
+  
+    <a href="https://praveen-portfolio-git-main-praveen-kumar-as-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Web-black?style=flat-square&logo=Web&logoColor=white"/></a>
+
 </p>
 
 ---
